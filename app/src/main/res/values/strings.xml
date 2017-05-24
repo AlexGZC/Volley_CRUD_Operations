@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Volley_CRUD_Operations</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="position">Enter Position</string>
+    <string name="years">Experience</string>
+    <string name="salary">Salary</string>
+    <string name="employee_Details">Employee Details</string>
+    <string name="send_button">Send Details</string>
+</resources>
